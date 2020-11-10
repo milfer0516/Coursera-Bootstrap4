@@ -24,3 +24,15 @@
     margin: 0px;
     color: #0f0f0f;
 }
+/** Aboutus.html **/
+.about {
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px ridge;
+}
+.corporate {
+    padding: 40px 20px 20px 20px;
+}
+.main {
+    padding-left: 20px;
+    padding-right: 20px;
+}
